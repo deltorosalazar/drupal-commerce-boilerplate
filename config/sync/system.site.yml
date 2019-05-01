@@ -1,0 +1,14 @@
+uuid: 29034349-291c-4cb5-9041-859b56926b90
+name: Shopio
+mail: deltorosalazar@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: es
+default_langcode: es
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI

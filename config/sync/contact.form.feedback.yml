@@ -1,0 +1,14 @@
+uuid: f5e2e774-61ff-4aed-9a17-2e4d6e894ff3
+langcode: es
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: c4zaT5cyPxuTXI6JOWt3qRtMvICT9tHB6d9a5VG-CmQ
+id: feedback
+label: 'Comentarios sobre el sitio web'
+recipients:
+  - deltorosalazar@gmail.com
+reply: ''
+weight: 0
+message: null
+redirect: null
